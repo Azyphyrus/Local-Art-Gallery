@@ -1,0 +1,40 @@
+/* New CSS for Contact Us Page */
+
+.contact {
+    padding: 2em 0;
+    background-color: #ffffff;
+}
+
+.contact h2 {
+    text-align: center;
+    color: #333333;
+}
+
+.contact p {
+    color: #666666;
+    line-height: 1.6;
+    margin-bottom: 1.5em;
+    text-align: center;
+}
+
+.contact-form {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 1em;
+    border: 1px solid #e0e0e0;
+    background-color: #f8f8f8;
+    border-radius: 5px;
+}
+
+.contact-form label {
+    display: block;
+    margin-bottom: 0.5em;
+    color: #333333;
+}
+
+.contact-form input,
+.contact-form textarea {
+    width: 100%;
+    padding: 0.75em;
+    margin-bottom: 1em;
+    border: 
