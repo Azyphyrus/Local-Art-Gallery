@@ -1,2 +1,4 @@
 # Local-Art-Gallery
-A sample quick Art gallery website
+A simple quick Art gallery website
+Quick Website Example
+Simple Website Example
